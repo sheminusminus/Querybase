@@ -3,7 +3,7 @@ import { _ } from './QuerybaseUtils';
 import { QuerybaseQuery } from './QuerybaseQuery';
 
 /**
- * Convienence function to match Firebase SDK design.
+ * Convenience function to match Firebase SDK design.
  * use:
  *  const ref = firebase.database.ref('items');
  *  querybase.ref(ref, ['prop1', 'prop2']);
