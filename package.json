@@ -1,6 +1,6 @@
 {
   "name": "@sheminusminus/querybase",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Bringing the where statement to Firebase",
   "main": "dist/querybase.umd.min.js",
   "scripts": {
