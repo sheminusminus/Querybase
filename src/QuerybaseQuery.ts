@@ -1,5 +1,3 @@
-import * as firebase from 'firebase';
-
 export type DatabaseQuery = firebase.database.Query;
 
 /**

@@ -1,6 +1,5 @@
 import { _, QueryPredicate, QuerybaseUtils} from './QuerybaseUtils';
 import { QuerybaseQuery } from './QuerybaseQuery';
-import * as firebase from 'firebase';
 
 export type DatabaseReference = firebase.database.Reference;
 export type DatabaseQuery = firebase.database.Query;
